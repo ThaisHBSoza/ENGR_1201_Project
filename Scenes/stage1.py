@@ -1,1 +1,0 @@
-# Beginning stage; the starting point.
